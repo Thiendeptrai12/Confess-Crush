@@ -1,20 +1,19 @@
 const CONFIG = {
-    titleWeb: "Loan Yêu Thịnh Nhiều",
-    introTitle: 'Loan yêu thịnh mà cứ dấu :>',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim Loan Thịnh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng Thịnh đã yêu Loan ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng Loan đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Loan yêu thịnh mà đúng không <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 3,5 tỉ người  là nữ mà sao thịnh lại yêu loan <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Tại vì loan và thịnh sinh ra là dành cho nhau mà <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Hãy chúc cho cặp đôi tụi mình hạnh phúc nhé :33.',
-    btnAccept: 'Okiiiii lun    -Thiện Đz-<3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Cuộc sống cúa đứa tên thiện",
+    introTitle: 'Ê thằng kia sao giờ vẫn chưa có bồ ? :>',
+    introDesc: `Thôi Được Chúng ta 
+    có một bài test đây là máy xem
+    bạn trong mắt crush bạn đồng ý không? `,
+    btnIntro: 'Ok',
+    title: 'Crush có thích bạn không hỏi thật ? 🥰',
+    desc: 'Bấm vào nút xanh ',
+    btnYes: 'Tào lao crush không thích bạn đâu :(',
+    btnNo: 'Có cô ấy yêu tôi lắm :((',
+    question: 'Đố bạn biết vì sao bây giờ vẫn chưa có ny ?',
+    btnReply: 'Gửi',
+    reply: 'Tại vì tội nghèo,xấu,ngu,yếu đuối lấy đâu ra ny :((',
+    mess: 'Thôi đừng buồn còn trẻ còn nhiều người tốt lắm :(',
+    messDesc: 'cố lên bro :V.',
+    btnAccept: 'Cảm ơn :((<3',
+    messLink: 'https://www.facebook.com/thiennguyenchizs' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
